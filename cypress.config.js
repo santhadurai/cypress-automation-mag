@@ -1,7 +1,6 @@
 const { defineConfig } = require("cypress");
 
 module.exports = defineConfig({
-  projectId: "2vh9jg",
   defaultCommandTimeout: 10000,
   pageLoadTimeout: 80000,
   experimentalFetchPolyfill:true,
