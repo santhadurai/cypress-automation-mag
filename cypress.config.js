@@ -24,8 +24,8 @@ module.exports = defineConfig({
     ignoreVideos: false,
     videoOnFailOnly: true
   },
-  experimentalSessionAndOrigin: true,
-  experimentalNetworkStubbing: true,
+  //experimentalSessionAndOrigin: true,
+  //experimentalNetworkStubbing: true,
   chromeWebSecurity: false,
   //testIsolation: false,
   e2e: {
