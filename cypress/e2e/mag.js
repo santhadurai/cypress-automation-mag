@@ -3,7 +3,7 @@ import GlobalPreferencesPage from "../pages/GlobalPreferencesPage";
 import HomePage from "../pages/HomePage";
 import MyAccountPage from "../pages/MyAccountPage";
 let obj = [{ user: 'Rhodes Hartley', email: 'lwrppa@magmutual.com', password: '@12345PPAL' },
-{ user: 'Provider LWR', email: 'providerlwr@magmutual.com', password: '@12345PL' },
+{ user: 'Policy AdminLWR', email: 'lwrpadmin@magmutual.com', password: '@12345PAL' },
 { user: 'Guest LWR', email: 'lwrguest@magmutual.com', password: '@12345GL' },
 ]
 obj.forEach(({ user, email, password }) => {
